@@ -94,21 +94,7 @@ Current focus:
 
 ## Screenshots
 
-### Vehicle Catalog
-
-_Add screenshot here_
-
-### Vehicle Details
-
-_Add screenshot here_
-
-### Search & Filters
-
-_Add screenshot here_
-
-### Favorites
-
-_Add screenshot here_
+### All screenshots are in the assets folder.
 
 ---
 
